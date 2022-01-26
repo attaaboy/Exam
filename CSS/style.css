@@ -1,0 +1,40 @@
+ul li {
+    display: inline;
+    color: #8057D9;
+    font-weight: 700px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 5px;
+}
+
+.texte {
+    margin: 30px;
+    padding-top: 100px;
+}
+
+img {
+    float: right;
+}
+
+h2 {
+    color: grey;
+}
+
+span {
+    color: #8057D9;
+}
+
+p {
+    color: grey;
+}
+
+.btn {
+    border-radius: 10%;
+    border: 1spx solid;
+    padding: 10px;
+}
